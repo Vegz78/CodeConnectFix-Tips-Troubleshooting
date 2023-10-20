@@ -12,7 +12,7 @@ Here, I present some tips for starting everything up in the correct order quickl
 ### Prerequisites
 - Minecraft Bedrock Edition installed on Windows 10 or 11
 - [Code Connection UWP App](https://apps.microsoft.com/detail/code-connection-for-minecraft/9PPFPG2FG2QB) installed
-- [Check and exempt](https://github.com/Vegz78/CodeConnectFix-Tips-Troubleshooting/edit/main/README.md#:~:text=Sometimes%2C%20often%20on%20Windows%2011%2C) Minecraft from loopback net isolation, especially on Windows 11
+- [Check and exempt](https://github.com/Vegz78/CodeConnectFix-Tips-Troubleshooting#:~:text=Sometimes%2C%20often%20on%20Windows%2011%2C) Minecraft from loopback net isolation, especially on Windows 11
 
 ### Installation
 - Create and download the following files to the folder _C:\Program Files\CodeConnectFix_:
