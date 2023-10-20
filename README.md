@@ -1,5 +1,5 @@
 # CodeConnectFix-Tips-Troubleshooting
-Some tips for MakeCode coding in Minecraft Bedrock for Windows 10 and 11 with Code Connection and CodeConnectionFix
+A script and some tips for MakeCode coding in Minecraft Bedrock for Windows 10 and 11 with Code Connection and CodeConnectionFix
 
 With the introduction of the bug [MCPE-154405](https://bugs.mojang.com/browse/MCPE-154405) with Minecraft Bedrock version 1.18.30 for Windows as far back in time as April the 19th 2022, the latest [Code Connection App](https://apps.microsoft.com/detail/code-connection-for-minecraft/9PPFPG2FG2QB) version 1.50 could unfortunately no longer connect successfully.
 
