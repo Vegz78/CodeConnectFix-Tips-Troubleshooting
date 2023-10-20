@@ -23,9 +23,9 @@ Here, I present some tips for starting everything up in the correct order quickl
 - To be able to pin this shortcut to the Start Menu and Taskbar, add "cmd /c " to the beginning of the _Target Path_ in the properties
 
 ### Usage
--Execute the above shortcut or _C:\Program Files\CodeConnectFix\Minecraft_Coding.bat_ directly
--Inside a Minecraft world with cheats enabled, press _T_ to open chat, and with the chat box highlighted press _CTRL+V_ to connect
--The first time you connect, you might have to authorize the connection for private networks in the Windows firewall pop-up menu
+- Execute the above shortcut or _C:\Program Files\CodeConnectFix\Minecraft_Coding.bat_ directly
+- Inside a Minecraft world with cheats enabled, press _T_ to open chat, and with the chat box highlighted press _CTRL+V_ to connect
+- The first time you connect, you might have to authorize the connection for private networks in the Windows firewall pop-up menu
 
 ### Troubleshooting
 - The connection string sometimes is not available in the clipboard to paste with _CTRL+V_ when Minecraft starts:
