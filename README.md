@@ -25,9 +25,9 @@ Here, I present a batch script and some tips for starting everything up in the c
 ### Usage
 - Execute the above shortcut or _C:\Program Files\CodeConnectFix\Minecraft_Coding.bat_ directly
 - Inside a Minecraft world with cheats enabled, press _T_ to open chat, and with the chat box highlighted press _CTRL+V_ to connect
-- The first time you connect, you might have to authorize the connection for private networks in the Windows firewall pop-up menu
+- The first time you connect, you might have to authorize the connection for private networks in the Windows firewall pop-up menu<br><br>
 
-### Troubleshooting
+## Troubleshooting
 - The connection string sometimes is not available in the clipboard to paste with _CTRL+V_ when Minecraft starts:
   - Run the _Minecraft_Coding.bat_ script and try _CTRL+V_ again in the Minecraft chat
 - CodeConnectFix.exe crashes and closes:
