@@ -5,7 +5,7 @@ With the introduction of the bug [MCPE-154405](https://bugs.mojang.com/browse/MC
 
 To the rescue came [Laurent Rocher](https://github.com/lrocher) with his great [CodeConnecFix](https://github.com/lrocher/CodeConnectFix).
 
-Here, I present some tips for starting everything up in the correct order quickly and some commong troubleshooting:<br><br>
+Here, I present a batch script and some tips for starting everything up in the correct order quickly and some common troubleshooting:<br><br>
 
 ## Batch script to quickly start everything up in the correct order
 
