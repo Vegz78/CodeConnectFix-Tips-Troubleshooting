@@ -19,7 +19,7 @@ Here, I present a batch script and some tips for starting everything up in the c
   - [CodeConnectFix.exe](https://github.com/lrocher/CodeConnectFix/releases)
   - [Minecraft_Coding.bat](https://github.com/Vegz78/CodeConnectFix-Tips-Troubleshooting/blob/main/Minecraft_Coding.bat)
   - [images.ico](https://github.com/Vegz78/CodeConnectFix-Tips-Troubleshooting/blob/main/images.ico)
-- Make a Windows shortcut(.lnk) to _C:\Program Files\CodeConnectFix\Minecraft_Coding.bat_, add _C:\Program Files\CodeConnectFix\images.ico as icon for the shortcut
+- Make a Windows shortcut(.lnk) to _C:\Program Files\CodeConnectFix\Minecraft_Coding.bat_, add _C:\Program Files\CodeConnectFix\images.ico_ as icon for the shortcut
 - To be able to pin this shortcut to the Start Menu and Taskbar, add "cmd /c " to the beginning of the _Target Path_ in the properties
 
 ### Usage
