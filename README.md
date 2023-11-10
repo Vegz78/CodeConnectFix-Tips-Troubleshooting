@@ -1,3 +1,8 @@
+## UPDATE 2023.11.10 - Code Connection discontinued:
+This repository had an exceptionally short lifetime of relevance, since Code Connection, sadly, was just officially discontinued:<br>
+https://forum.makecode.com/t/bedrock-edition-no-longer-working-with-makecode-super-disappointing/22597/20?u=vegz78
+<br>
+<br>
 # CodeConnectFix-Tips-Troubleshooting
 A script and some tips for MakeCode coding in Minecraft Bedrock for Windows 10 and 11 with Code Connection and CodeConnectionFix
 
